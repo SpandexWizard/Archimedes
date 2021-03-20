@@ -1,6 +1,10 @@
 ---
-layout:default
+layout: default
+title: Design Goals
+nav_order: 2
 ---
+
+
 so what makes my baby magic? well nothing yet! but here's my plans
 - a tented keyboard that is neither subtle nor steep. something that follows my hand's natural position
 - a vertically dished set of keys that limit the amount of reach each finger needs to press a key. 
