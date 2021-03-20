@@ -1,4 +1,3 @@
-## Archimedes
-### A Wizard's Helper
+## What is Archimedes?
 
-i'm just puttering along trying desperately to figure this stuff out! :3
+Archimedes is a split ergonomic keyboard. it takes ideas and features from the Dactyl Manuform, the Oddball, and several other custom keyboards that grace the net with the sole purpose of being freaking amazing. The work has only just begun, so join me on this ride as I try to make magic happen, and struggle to document it in html!
