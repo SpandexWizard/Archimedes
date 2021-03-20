@@ -1,3 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 title: Archimedes, a Wizard's Helper
 description: an ergonomic split keyboard with trackball powered by an esp32
+
+search_enabled: false
