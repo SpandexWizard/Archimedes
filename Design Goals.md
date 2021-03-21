@@ -13,6 +13,7 @@ so what makes my baby magic? well nothing yet! but here's my plans for physical 
 - a trackball.
 - a scrollwheel, to go with that trackball.
 - a 'mouse layer' that activates when you move the ball.
+- something that's NOT a trrs cable to connect them.
 - a layer with a full numberpad
 - arrowkeys that are arrowkeyshaped. LOOKING AT YOU ERGODOX
 - a thumbcluster with buttons useful enough for me to remember them
@@ -33,6 +34,8 @@ A scroll wheel is pretty self explanitory. If there's one big flaw to trackballs
 
 I've seen some pretty nifty things done with the trackball involving mouse layers, and those are useful, I think. To summerize, you want any motion of the ball to trigger the Mouse Layer, allowing you to click without moving your hand and without wasting valuable key space to dedicated keys. You also want this mouse layer to knock it off when it's time to go back to using the keyboard. At it's easiest, a 'home layer' button would allow one to rapidly return to typing, but some kind of smart un-mouse-layer programming might be better? I can imagine it getting pretty complex though
 
+The Connector is honestly a big deal. Hotswapping is a bad idea in general, but accidents happen, and this keyboard is not cheap. The last thing I want is to fry my board because the cable got yanked out. Plus other options look bulkier and more 'professional'.
+
 A layer with a numberpad is a MUST. The number of times I've been unable to fully utilize a software because it needs a proper numberpad is crazy. And some, like blender, REALLY rely on those keys.
 
 Arrowkeys are more of a gripe about my current setup than anything else. I've been using an ergodox for about two years now, and I dont often need arrow keys, but when I do, it's hell. combineing the numberpad layer with the arrows layer may be efficient. wsad for arrows, numbers on the right hand. 
@@ -50,3 +53,23 @@ A big BIG inspiration for me is the Tractyl ManuForm, by NoahJoseph
 <img src="https://preview.redd.it/t2uywp1p19u51.jpg?width=960&crop=smart&auto=webp&s=edf70e68aaf49736964815766064eba41228f066" alt="a picture of the Tractyl ManuForm, a split ergonomic keyboard based on the Dactyl ManuForm with trackball and built in wrist rests.">
 I mean LOOK at it! THIS is what I mean by a Gundam Pilot.
 read more about the Tractyl here: <a href="https://www.reddit.com/r/ErgoMechKeyboards/comments/jep7c0/tractyl_manuform_dactyl_with_builtin_trackball/">Reddit</a> <a href="https://github.com/noahprince22/tractyl-manuform-keyboard">Github</a>
+
+The Tractyl features dished keys, a trackball, quality tenting. It's nearly perfect. But there's things I'd change, to make it mine. I'm not sold on the thumb cluster, and I'd prefer the trackball look a little more elegant, though it's design is honestly one of the things that makes me think of techy mecha. There's also features that I consider extra, like the hot swap sockets. I dont expect to be replacing keys very often, if ever, so that's just a headache I can avoid. 
+
+The Track Beast, by Dave Kincade.
+
+<img src="https://miro.medium.com/max/1000/1*oaMaxPbLVWpIVhx8sOfnIQ.jpeg" alt="a picture of the track beast, a modified dactyl manuform">
+
+This is what I mean by elegant! look at that puppy and tell me it doesnt scream 'space elves built me'. the bright colors are also attractive. 
+read about it here: <a href="https://medium.com/@kincade/track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222">Medium.com</a>
+
+The Oddball, by atulloh
+<img src="https://atulloh.github.io/oddball/assets/images/gallery-v2-small-6.jpg" alt"a picture of the oddball, a custom split keyboard with a trackball and minimal keys">
+The oddball honestly was the last push to try this crazy trackball thing out. They use a smaller ball and it just seems to sit there. I'm unsure if it is actually sealed in place or not, but it seems to work well and after so many keyboards with trackballs in them I have to give in and give it a go.
+read about it here: <a href="https://atulloh.github.io/oddball/">Github</a> 
+the oddball is also what convinced me to document my build, and yes I AM stealing their theme even. guilty.
+
+The Lime40, by eucalyn
+<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_qjd4d.jpg" alt="am image of a lime40 keyboard, superminimal with good tenting.">
+<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_wheel_2021-02-07-s850.jpg" alt="a picture of a modified lime40 with included thumbwheel">
+Honestly I dont know a lot about this one. Finding a source on it is difficult, but it does a LOT of things I like. In fact Archimedes is probably most heavily based on this keyboard. the tenting is perfect, the dishing and domeing and staggering are great. the only problem for me is that the thumb clusters are WAY too close to the rest of the fingers. the lime40 was meant for people with small hands and that's the exact opposite of my problem. I also want more keys. At least one model includes a thumbwheel that likely functions the same way I'd want mine to. There's a lot to love about this machine.
