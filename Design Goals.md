@@ -64,7 +64,7 @@ This is what I mean by elegant! look at that puppy and tell me it doesnt scream 
 read about it here: <a href="https://medium.com/@kincade/track-beast-build-log-a-trackball-dactyl-manuform-19eaa0880222">Medium.com</a>
 
 The Oddball, by atulloh
-<img src="https://atulloh.github.io/oddball/assets/images/gallery-v2-small-6.jpg" alt"a picture of the oddball, a custom split keyboard with a trackball and minimal keys">
+<img src="https://atulloh.github.io/oddball/assets/images/gallery-v2-small-6.jpg" alt="a picture of the oddball, a custom split keyboard with a trackball and minimal keys">
 The oddball honestly was the last push to try this crazy trackball thing out. They use a smaller ball and it just seems to sit there. I'm unsure if it is actually sealed in place or not, but it seems to work well and after so many keyboards with trackballs in them I have to give in and give it a go.
 read about it here: <a href="https://atulloh.github.io/oddball/">Github</a> 
 the oddball is also what convinced me to document my build, and yes I AM stealing their theme even. guilty.
