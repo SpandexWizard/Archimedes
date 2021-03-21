@@ -42,3 +42,11 @@ Again an ergodox fueled complaint, but i cant even remember what six of my thumb
 I use blender heavily, and somewhat professionally, and that means a LOT of hotkey usage. So much hotkey usage in fact that having anything less than a full keyboard is often not good enough. Newer versions of the software have alieviated these concerns somewhat, but the fact remains that they are a problem, and it's not just blender. I want to put consideration into what keys I actually need, and not skimp just because it's popular to trim out as many as possible. Layers are a good alternative to extra keys but if I just need one more key, I should have that one more key. 
 
 and the most important consideration: It needs to transport me into the cockpit of a gundam. These keyboards have the potential to be REALLY cool. IT MUST BE COOL.
+
+***
+Inspiration:
+
+A big BIG inspiration for me is the Tractyl ManuForm, by NoahJoseph
+<img src="https://preview.redd.it/t2uywp1p19u51.jpg?width=960&crop=smart&auto=webp&s=edf70e68aaf49736964815766064eba41228f066" alt="a picture of the Tractyl ManuForm, a split ergonomic keyboard based on the Dactyl ManuForm with trackball and built in wrist rests.">
+I mean LOOK at it! THIS is what I mean by a Gundam Pilot.
+read more about the Tractyl here: <a href="https://www.reddit.com/r/ErgoMechKeyboards/comments/jep7c0/tractyl_manuform_dactyl_with_builtin_trackball/">Reddit</a> <a href="https://github.com/noahprince22/tractyl-manuform-keyboard">Github</a>
