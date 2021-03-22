@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 title: Parts List
 parent: Build Guide
 ---
