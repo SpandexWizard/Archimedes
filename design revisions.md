@@ -1,3 +1,9 @@
+---
+layout: default
+title: changelog
+nav-order: 3
+---
+
 I'll try to catalog the small changes to the design here until the shape of the keyboard starts to take shape. I imagine there's going to be a LOT of trial and error, particularly with the trackball.
 
 V .01
