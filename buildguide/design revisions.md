@@ -14,6 +14,9 @@ V .02
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v.02.PNG" alt="">
 the next step, trying to place the trackball. I really like the track beast's solution but the number of keys available leaves something to be desired, and I've never liked the manuform thumb cluster. Instead of peeling away from the thumb, I'd rather if it cupped, like a Dmote.
 
+v .021
+<img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/key%20plate%20v.02.PNG" alt="">
+adjusting the number of rows and columns to match a 3x6. not sure if i will stagger the second pinkey row or not. maybe. might be fine where it is. 
 
 V .03?
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/key%20layers%20and%20shape.png" alt="">
