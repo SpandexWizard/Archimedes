@@ -70,6 +70,6 @@ read about it here: <a href="https://atulloh.github.io/oddball/">Github</a>
 the oddball is also what convinced me to document my build, and yes I AM stealing their theme even. guilty.
 
 The Lime40, by eucalyn
-<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_qjd4d.jpg" alt="am image of a lime40 keyboard, superminimal with good tenting.">
-<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_wheel_2021-02-07-s850.jpg" alt="a picture of a modified lime40 with included thumbwheel">
+<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_qjd4d.jpg" alt="">
+<img src="http://xahlee.info/kbd/idiy/lime40_keyboard_wheel_2021-02-07-s850.jpg" alt="">
 Honestly I dont know a lot about this one. Finding a source on it is difficult, but it does a LOT of things I like. In fact Archimedes is probably most heavily based on this keyboard. the tenting is perfect, the dishing and domeing and staggering are great. the only problem for me is that the thumb clusters are WAY too close to the rest of the fingers. the lime40 was meant for people with small hands and that's the exact opposite of my problem. I also want more keys. At least one model includes a thumbwheel that likely functions the same way I'd want mine to. There's a lot to love about this machine.
