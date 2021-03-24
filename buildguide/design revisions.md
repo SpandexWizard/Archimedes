@@ -18,6 +18,12 @@ v .021
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/key%20plate%20v.02.PNG" alt="">
 adjusting the number of rows and columns to match a 3x6. not sure if i will stagger the second pinkey row or not. maybe. might be fine where it is. 
 
-V .03?
+V .03
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v.03.PNG" alt="">
 removed top row keys. will have numberpad layer, so they are probably unnessisary. I definitely need some extra side keys though, so that I can have a place for modifiers.
+<a href="https://github.com/SpandexWizard/Archimedes/blob/main/stls/mockup%20v.03.stl">mockup v.03 stl</a>
+
+v .04
+<img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v.04.PNG" alt="">
+after printing out a mockup, i determined that the tenting was a tad too extreme for my comfort, and lowered it by 5 degrees. the trackball was moved a few milimeters to the right, and the thumb cluster rotated counter clockwise a bit, and moved to the right, to allow for a more comfortable touching of the buttons. testing the second mockup confirms an improvement. i'm not entirely sure it's perfect but it's not horrible. 
+<a href="https://github.com/SpandexWizard/Archimedes/blob/main/stls/mockup%20v.04.stl">mockup v.04 stl</a>
