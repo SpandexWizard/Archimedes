@@ -5,6 +5,7 @@ nav_order: 4
 has_children: true
 ---
 Current Parts:
+
 <img src="https://github.com/SpandexWizard/Archimedes/blob/main/keygrid%201.PNG" alt= "">
 <a href="https://github.com/SpandexWizard/Archimedes/blob/main/stls/key%20grid%201.stl">Key Grid 1 stl</a>
 
