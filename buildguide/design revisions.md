@@ -29,6 +29,6 @@ after printing out a mockup, i determined that the tenting was a tad too extreme
 <a href="https://github.com/SpandexWizard/Archimedes/blob/main/stls/mockup%20v.04.stl">mockup v.04 stl</a>
 
 v .05
-<img src="https://github.com/SpandexWizard/Archimedes/blob/main/archimedes%20v.05.PNG" alt="">
+<img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v.05.PNG" alt="">
 With the next update i decided i wasnt confident in the position of the trackball and felt that my control would be limited because of the angle of attack. Taking a tab from the defunct King's Assembly keyboard I tried placing the trackball where their thumbstick was. For me, it works very well.
 <a href="https://github.com/SpandexWizard/Archimedes/blob/main/stls/mockup%20v.05.stl">mockup v.05 stl</a>
