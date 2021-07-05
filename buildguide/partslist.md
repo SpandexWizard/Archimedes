@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parts List
-parent: Build Guide
+parent: Build Journal
 ---
 
 This is my current projected parts list. I'm still REALLY early in the process, so this is subject to change. A lot
