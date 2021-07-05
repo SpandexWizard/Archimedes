@@ -40,3 +40,8 @@ The Keygrid Physical parts
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/keygrid%201%20tree%20supports.jpg" alt="">
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/keygrid%201.jpg" alt="">
 i've test printed the keygrid in petg using cura's tree supports and i have to say i'm damn impressed. the supports dont use a lot of material and they WORK. i've never gotten a keyboard part to print this clean before, even when i'm NOT printing petg. it's fantastic!
+
+Archimedes V.9
+<img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20shell.PNG" alt="">
+<img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v1.PNG" alt="">
+it feels like things are moving so fast now. but that'll change when i get to software, i'm sure. i've almost finished designing the housing for the keyboard. all that's needed now is to add the trackball mount and it's ready for me to start fiddling with the hard stuff. i'm concerned about the pegs for the screws fitting into the holes, but that's a minor fix. as it stands? it looks SO good. maybe not gundam exactly, but ... MNN!
