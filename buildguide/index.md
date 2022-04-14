@@ -41,7 +41,17 @@ The Keygrid Physical parts
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/keygrid%201.jpg" alt="">
 i've test printed the keygrid in petg using cura's tree supports and i have to say i'm damn impressed. the supports dont use a lot of material and they WORK. i've never gotten a keyboard part to print this clean before, even when i'm NOT printing petg. it's fantastic!
 
-Archimedes V.9
+Archimedes V.09
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20shell.PNG" alt="">
 <img src="https://raw.githubusercontent.com/SpandexWizard/Archimedes/main/archimedes%20v1.PNG" alt="">
 it feels like things are moving so fast now. but that'll change when i get to software, i'm sure. i've almost finished designing the housing for the keyboard. all that's needed now is to add the trackball mount and it's ready for me to start fiddling with the hard stuff. i'm concerned about the pegs for the screws fitting into the holes, but that's a minor fix. as it stands? it looks SO good. maybe not gundam exactly, but ... MNN!
+
+Archimedes V.09 Test Prints
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/test%20fit%202.jpg?raw=true" alt="">
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/test%20fit.jpg?raw=true" alt="">
+i'm am a little late posting this, i printed these months ago. it came out pretty great but it also showed me i have things to fix, importantly the bearing holes are too small, and that means IF you can get a bearing in, it gets stuck and wont roll at all. conversely, the trackball slides in it like a dream. super awesome. 
+
+Archimedes V.10
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/v.1%20render.jpg?raw=true" alt="">
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/exploded%20view%20right%20hand%20v.1.PNG?raw=true" alt="">
+some adjustments to the existing features, and a LOT of new hardware points. the slot for the sensor is in place, as is the scroll wheel slot. screw holes have been added to all the small parts. i dont like cutting it up like this but it's the only way i get the scrollwheel where it belongs. we'll see how it looks once i print it... hopefully the screws keep the seams tight and it still looks professional. assuming this works out, this will be the last major revision! all that's left is to build a mount for the control board and sockets for the usb and connectors. 1.0 here i come!
