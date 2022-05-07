@@ -16,7 +16,7 @@ This is my current projected parts list. I'm still REALLY early in the process, 
 - 1/8" ball bearings. I picked up steel ball bearings, which may be a bad idea. Here's hoping I dont rub flat spots on my trackball. (100ct 5.45)
 - a set of keycaps. 3d printed some DES profile caps on my voxelal proxima. 
 - filament for the casing. I can easily get a few practice cases out of a roll, so $15. 
-- 22ga solid core copper wire.  I cant stand stranded core, it doesnt solder right. $6.98 for 25'. hope that's enough. It should be.
+- 22ga solid core copper wire.  I cant stand stranded core, it doesnt solder right.(25f 6.98)
 - 1n4148 switching diode. funny thing here, I bought 100 for my ergodox, they sent me 300... (100ct $4.99)
 - 3mm threaded inserts. also from the ergodox build. (100ct $1.44)
 - m3 6mm screws, left over from the ergodox. Starting to see why I bought bulk. or maybe why I thought a second keyboard was a tempting idea... (100ct $6.47)
@@ -35,6 +35,8 @@ running total: 131.40
 total with 'free' ergodox parts:144.30
 
 total with LED's on top: 181.77
+
+total with 'free' parts without stupid purchases: 115ish
 
 missing parts?:
 - usb cable
