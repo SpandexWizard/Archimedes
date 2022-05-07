@@ -31,7 +31,9 @@ i really hadnt planned on adding LED's but the keycaps i printed off are translu
 - 820 ohm 1/4w resistors. for the led's above.  (100ct, 5.00)
 
 running total: 131.40
+
 total with 'free' ergodox parts:144.30
+
 total with LED's on top: 181.77
 
 missing parts?:
