@@ -55,3 +55,13 @@ Archimedes V.10
 <img src="https://github.com/SpandexWizard/Archimedes/blob/main/v.1%20render.jpg?raw=true" alt="">
 <img src="https://github.com/SpandexWizard/Archimedes/blob/main/exploded%20view%20right%20hand%20v.1.PNG?raw=true" alt="">
 some adjustments to the existing features, and a LOT of new hardware points. the slot for the sensor is in place, as is the scroll wheel slot. screw holes have been added to all the small parts. i dont like cutting it up like this but it's the only way i get the scrollwheel where it belongs. we'll see how it looks once i print it... hopefully the screws keep the seams tight and it still looks professional. assuming this works out, this will be the last major revision! all that's left is to build a mount for the control board and sockets for the usb and connectors. 1.0 here i come!
+
+Archimedes V.20
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/rev%20.2%20a.PNG" alt="">
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/rev%20.2%20b.PNG" alt="">
+<img src="https://github.com/SpandexWizard/Archimedes/blob/main/rev%20.2%20c.PNG" alt="">
+a pretty major setback led to a large design change. the trackball felt right for every mockup i made, and even the real deal, until i got it working and realized it was way too far to the left. it had to move, and that meant a major design rework. which has stalled a lot of my momentum... i'm back on track now, with a few compromises. moving the trackball means losing two of my thumb keys, which is a pretty heavy blow. i intend to get around these limits by making it so that the end and home keys, and the bottom layer/ layer up keys are the same key. a press for home, a hold for end. a tap for layer up, a hold for home layer.  
+
+i've also realised that i never worked the windows and alt keys into my design properly, which is... a bigger problem. i can get creative with some of my keys, perhaps making a long press on esc be windows, but i use windows shortcuts quite frequently, and not having ready access to the windows or alt keys will be something that absolutely needs remedied. i'll think on it. maybe holding tab can be alt... i'm not sure yet. i may just end up adding two more keys to the left hand side so i can more easily use standard shortcuts. but it feels like cheating.  
+
+then again. i kind of dig the asymetric vibe.  speaking of vibes, do SOMETHING about the trackball housing. it looks glued on. x.x
