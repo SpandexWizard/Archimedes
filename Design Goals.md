@@ -20,7 +20,7 @@ so what makes my baby magic? well nothing yet! but here's my plans for physical 
 - consideration for blender/other software hotkeys
 - feel like a gundam pilot
 
-Tenting is important to match the natural twist of your hand. with most ergonomic keyboards, I feel the tenting is either too subtle and useless, or way WAY too much. It's going to take some trial and error to find the right ammount of tenting. My mockup feels good but it's not as tall as it will be with real keys in it and may need adjusting.
+Tenting is important to match the natural twist of your hand. with most ergonomic keyboards, I feel the tenting is either too subtle and useless, or way WAY too much. It's going to take some trial and error to find the right ammount of tenting. I'm pretty happy with the model as it sits, but it may need adjusting. to this end i want the key grid as a seperate part from the frame, allowing for all the wiring to be left alone when and if i change bases. (a feature already implemented <3) 
 
 By vertically dished keys, I mean that the rows curve towards homerow, upoff the table. This moves them closer to homerow and limits extension of the digits, and, I think, allows for a stronger push with less effort, since you will be pushing more 'straight at the key'. The ammount of curve on the keyboard is subtle, with perhaps a 10-12 inch diameter. 
 
@@ -28,17 +28,17 @@ Horizontally domed keys are the opposite of this. This means the center of eithe
 
 Vertically staggered keys are pretty self explanitory. Some fingers are longer than others, and moving those fingers' columns forward will allow them to have a more relaxed position. 
 
-A trackball; this wasnt super important to me, but soemthing I've always considered interesting. Plus, i've seen so many of them that just look COOL. so while it's an expensive and probably VERY tricky system to impliment, I'm going to try!
+A trackball; this wasnt super important to me, but soemthing I've always considered interesting. Plus, i've seen so many of them that just look COOL. so while it's an expensive and probably VERY tricky system to impliment, I'm going to try! The more i work on this system, the more the trackball becomes a need and not a want. being able to hit hotkeys without taking my hand off my mouse is a big deal for me.
 
 A scroll wheel is pretty self explanitory. If there's one big flaw to trackballs is that the scroll wheel has become so important to modern computing. A mouse without one is basically useless. I'd love to make one that includes the middle mouse click, but that's pushing things a bit far. Getting my hands on a mouse encoder is pretty simple, and I'll start there. 
 
-I've seen some pretty nifty things done with the trackball involving mouse layers, and those are useful, I think. To summerize, you want any motion of the ball to trigger the Mouse Layer, allowing you to click without moving your hand and without wasting valuable key space to dedicated keys. You also want this mouse layer to knock it off when it's time to go back to using the keyboard. At it's easiest, a 'home layer' button would allow one to rapidly return to typing, but some kind of smart un-mouse-layer programming might be better? I can imagine it getting pretty complex though
+I've seen some pretty nifty things done with the trackball involving mouse layers, and those are useful, I think. To summerize, you want any motion of the ball to trigger the Mouse Layer, allowing you to click without moving your hand and without wasting valuable key space to dedicated keys. You also want this mouse layer to knock it off when it's time to go back to using the keyboard. At it's easiest, a 'home layer' button would allow one to rapidly return to typing, but some kind of smart un-mouse-layer programming might be better? I can imagine it getting pretty complex though ((turns out, qmk already has a feature like this built in that is pretty robust. nice!))
 
-The Connector is honestly a big deal. Hotswapping is a bad idea in general, but accidents happen, and this keyboard is not cheap. The last thing I want is to fry my board because the cable got yanked out. Plus other options look bulkier and more 'professional'.
+The Connector is honestly a big deal. Hotswapping is a bad idea in general, but accidents happen, and this keyboard is not cheap. The last thing I want is to fry my board because the cable got yanked out. Plus other options look bulkier and more 'professional'. 
 
 A layer with a numberpad is a MUST. The number of times I've been unable to fully utilize a software because it needs a proper numberpad is crazy. And some, like blender, REALLY rely on those keys.
 
-Arrowkeys are more of a gripe about my current setup than anything else. I've been using an ergodox for about two years now, and I dont often need arrow keys, but when I do, it's hell. combineing the numberpad layer with the arrows layer may be efficient. wsad for arrows, numbers on the right hand. 
+Arrowkeys are more of a gripe about my current setup than anything else. I've been using an ergodox for about two years now, and I dont often need arrow keys, but when I do, it's hell. combining the numberpad layer with the arrows layer may be efficient. wsad for arrows, numbers on the right hand. 
 
 Again an ergodox fueled complaint, but i cant even remember what six of my thumb keys DO, because they're really weird to reach. Ensuring that they are reachable and useful is a big deal, otherwise it's wasted space and keys. 
 
