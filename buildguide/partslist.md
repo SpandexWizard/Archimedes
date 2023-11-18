@@ -6,7 +6,7 @@ parent: Build Journal
 
 This is my current projected parts list. I'm still REALLY early in the process, so this is subject to change. A lot
 
-- Gateron Browns x45 (holy shit, I thought there were more) I bought 47 and added them to the leftovers from my ergodox build. could have saved money if I'd realised i less than half that. (47ct $14.90) x
+- Gateron Browns x45 (holy shit, I thought there were more) I bought 47 and added them to the leftovers from my ergodox build. could have saved money if I'd realised i need less than half that. (47ct $14.90) x
 - pro micro atmega32u4. i lost them. then purchased below. that's right, three different boards bought for this build.... (2ct 10.99) x
 - Esp-32s x2. I'm using a set of SUPER cheap ones off amazon. (5ct 25.99) x
       ((unused. turns out esp32's cant talk via usb, which means they're only useful in a keyboard as a blutooth. wish i'd gotten esp32 s2's...) 
