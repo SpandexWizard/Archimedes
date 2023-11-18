@@ -22,6 +22,7 @@ This is my current projected parts list. I'm still REALLY early in the process, 
 - m3 6mm screws, left over from the ergodox. Starting to see why I bought bulk. or maybe why I thought a second keyboard was a tempting idea... (100ct $6.47)
 - flashtree trrs breakout boards. not sure if these are still available. (3ct 5.99)
 - 9mm mouse encoder. bought a bunch to use in another project. (25ct 9.25)
+- gateron limbos! yep, i bought another thing i didnt need. i heard about the limbos and decided i really liked the way their feel sounded. now i've got them and i have to admitt i think i made the right choice. they're super unique. i bought these from ilumkb, which has rocking prices for these. (50ct, about 18$ shipped) 
 
 
 i really hadnt planned on adding LED's but the keycaps i printed off are translucent and it was just begging for it. time for more unnessisary purchases!
@@ -32,13 +33,13 @@ i really hadnt planned on adding LED's but the keycaps i printed off are translu
 - yet another set of LEDs. these are pretty much the twin to the yellows above, but red. testing showed that the flat tops brought MUCH more illumination to the keys, which so far has been a rather depressing topic. since i'm not using the yellows i can use the resistors i bought for them to save a bit of money. also, aliexpress ftw. way cheaper than amazon for an identical product. same brand and everything (100ct, 2.75)
 - 100m of .18mm enamled wire. the heavy duty wire i purchased above was nice but far too much. i'm hoping this magnet wire will be sturdy enough to take some routing, and insulated enough that i dont have to worry about crossing streams. in theory it should reduce the thickness of my handwireing by a LOT, at the cost of needing WAY more patience to use.... (100m, 2.72)
 
-running total: 131.40
+running total: 149.40
 
-total with 'free' ergodox parts:144.30
+total with 'free' ergodox parts:162.3
 
 total with LED's on top: 187.24
 
-total with 'free' parts without stupid purchases: 101-ish. man how'd i spend almost a hundred bucks on parts i am not using. 
+total with 'free' parts without stupid purchases: 119-ish. man how'd i spend almost a hundred bucks on parts i am not using. 
 
 missing parts?:
 - usb cable
